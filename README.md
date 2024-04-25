@@ -34,13 +34,13 @@ Upon exploration, we discovered the following:
 - Among the customers, 2023 expressed satisfaction with the service provided, while 1759 were unsatisfied, including those who abandoned their calls.
 - Customer satisfaction levels varied, with 1218 customers being neutral, 1180 satisfied, 843 very satisfied, 417 very unsatisfied, and 396 unsatisfied.
 
-KPIs
+**KPIs**
 ![image](https://github.com/Orie05/Call-centre-analysis/assets/149834782/c292a39d-9cf4-4931-a223-606ef8c05826)
 
 ![image](https://github.com/Orie05/Call-centre-analysis/assets/149834782/43423497-6290-42a2-959e-899d0f008b42)
 
 
-Agents' Performance
+**Agents' Performance**
 
 ![image](https://github.com/Orie05/Call-centre-analysis/assets/149834782/58e62e12-5708-49db-9f02-48a9ba1692dd)
 
@@ -81,5 +81,7 @@ Agents' Performance
 
   # Dashboard
   ![image](https://github.com/Orie05/Call-centre-analysis/assets/149834782/388a4af6-83b6-4d9f-8ff0-5becec955d98)
+
+  To interact with dashboard -  [Click here](https://drive.google.com/file/d/1pQJ4vw0C-S0bhHHA8i2T02oRX3ie1dHs/view?usp=drive_link)
 
 
